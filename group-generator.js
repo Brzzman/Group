@@ -1,4 +1,4 @@
-<script>
+<script type="text/javascript">
      document.addEventListener("DOMContentLoaded", function() {
     // Define variables for animation, data storage, and DOM elements
     let animationInterval;
